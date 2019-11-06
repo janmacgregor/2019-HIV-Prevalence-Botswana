@@ -3,22 +3,17 @@
 This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy. Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
 
 ## Interact with the Case Study
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2019-HIV-Prevalence-Botswana/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/2019-HIV-Prevalence-Botswana)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2019-HIV-Prevalence-Botswana/master) 
 
-This is a **digital case study** built with [Jupyter Notebook](https://jupyter.org/) and [Docker](https://www.docker.com/). Click on either Binder or Azure Notebooks link above. Wait a few minutes for the binder or Azure notebook service to complete its setup and launch. Enjoy the rest of the story after you launch the case study.
+This is a **digital case study** built with [Jupyter Notebook](https://jupyter.org/) and [Docker](https://www.docker.com/). Click on the Binder Notebook link above. Wait a few minutes for the Binder service to complete its setup and launch. Enjoy the rest of the story after you launch the case study.
 
 ## Notes
 ### Using BinderHub
 After clicking on the "launch binder" link above, wait for a few minutes to have Docker container built. 
 
-### Using Microsoft Azure Notebook
-This service is continuously being improved so notebooks and launch process might break. After launching a notebook or terminal, you may see a popup window that looks like the one below. It means the Jupyter Notebook container has not completed its set up yet. When the popup window to disappears, this means all the packages have been installed.
-![](./images/azurenb-wait.png)
-
 ## Learn More About
 1. [Project Jupyter](https://jupyter.org/)
 2. [BinderHub technology - repo2docker](https://repo2docker.readthedocs.io/en/latest/)
-3. [Microsoft Azure Notebooks](https://notebooks.azure.com/) and [QuickStart Documentation](https://docs.microsoft.com/en-us/azure/notebooks/)
 
 ## Public Domain
 This repository constitutes a work of the United States Government and is not
