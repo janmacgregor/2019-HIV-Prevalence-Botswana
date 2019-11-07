@@ -1,6 +1,8 @@
 # 2017-HIV-Prevalence-Case-Study (Under Development)
 
-This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy. Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
+*This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy. Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.*
+
+Case studies have been used in many disciplines (health sciences, social sciences, engineering and law) to create opportunities to provide learners with immersive environments in which to apply these problem solving skills. Digital case studies provide the additional benefits of interactivity and reproducibility to data science problems, but educators be faced with challenges understanding the ecosystem of tools that can be used to develop them. Over the course of the next few hours, you and your team will develop a simple digital case study based on publically-available data from Botswana.
 
 ## Interact with the Case Study
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2019-HIV-Prevalence-Botswana/master) 
@@ -37,9 +39,9 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE. See the Apache Software License for more details.
 
 You should have received a copy of the Apache Software License along with this
-program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html
+program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html.
 
-The source code forked from other open source projects will inherit its license.
+Source code forked from other open source projects will inherit its license.
 
 ## Privacy
 This repository contains only non-sensitive, publicly available data and
